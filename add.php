@@ -11,7 +11,7 @@
 $servername = "";
 $username = "";
 $password = "";
-$database = ""; */
+$database = "";
 
 	// create the connection
 	$connect = mysqli_connect($servername, $username, $password, $database);
