@@ -9,9 +9,14 @@ Download and use for free. I would not recommend commerical use or online becaus
 But you can run this off a local machine.
 
 Overview page:
+<br>
 ![alt tag](https://github.com/harmankang/sku-program/blob/master/overview.png)
 
+<br>
+
 and the Add new units page:
+<br><br>
 ![alt tag](https://github.com/harmankang/sku-program/blob/master/add.png)
 
+<hr>
 Thanks for reading me. Have a nice day
